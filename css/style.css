@@ -33,7 +33,7 @@ section .overlay{
 section:hover .overlay{
     display: none;
 }
-
+/* IMPORTANTE PER CENTRARE ELEMENTO H3 AL CENTRO!!!  */
 section h3{
     position: absolute;
     font-size: 100px;
